@@ -26,7 +26,4 @@ Bu demo, Syncfusion'ın Vue.js framework'ü için geliştirdiği AI destekli har
 - Gerçek zamanlı veri entegrasyonu
 - Lokasyon bazlı tahmin görüntüleme
 
-## Image Editör
 
-- https://ej2.syncfusion.com/vue/demos/#/tailwind3/image-editor/custom-toolbar.html
-- https://ej2.syncfusion.com/vue/documentation/image-editor/toolbar

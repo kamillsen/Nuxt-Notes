@@ -13,3 +13,9 @@
 
 *   **Form:** [https://ui4.nuxt.com/docs/components/form](https://ui4.nuxt.com/docs/components/form)
 *   **Dropdown Menu:** [https://ui4.nuxt.com/docs/components/dropdown-menu](https://ui4.nuxt.com/docs/components/dropdown-menu)
+
+
+## Image Editör
+
+- https://ej2.syncfusion.com/vue/demos/#/tailwind3/image-editor/custom-toolbar.html
+- https://ej2.syncfusion.com/vue/documentation/image-editor/toolbar
