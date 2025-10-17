@@ -1,0 +1,20 @@
+onBeforeUnmount(() => {
+  // Component yok edilmeden önce çalışır
+})
+
+
+--------------
+
+watch(imageEditorObj, (newValue) => {
+  // imageEditorObj değiştiğinde çalışır
+})
+
+-------------
+
+
+nextTick(() => {
+  // DOM güncellemelerinden sonra çalışır
+})
+
+
+------------
